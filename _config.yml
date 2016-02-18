@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 1
+color:
+  lightness: 0.8722926
+  brandStrength: 0.2411035
+  saturation: 0.6239843
+  rhythmicContrast: 0.433061
+  brandColors:
+    - '#BCBBB5'
+    - '#9A5339'
+    - '#303138'
+    - '#FBFBFF'
+    - '#6DB5F1'
+name: Southern edge
